@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandaoA
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and I'm a beginner
+- 🌱 I’m currently learning HTML, CSS and JavaScript and I'm a beginner
 - 💞️ I’m looking to improve my skills here and learn more about programming
 - 📫 How to reach me brandonagendia@gmail.com
 
